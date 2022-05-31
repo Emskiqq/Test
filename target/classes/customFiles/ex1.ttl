@@ -1,0 +1,15 @@
+
+<http://example.org/Picasso> a <http://example.org/Artist>;
+  <http://xmlns.com/foaf/0.1/firstName> "Pablo";
+  <http://xmlns.com/foaf/0.1/surname> "Picasso";
+  <http://example.org/creatorOf> <http://example.org/guernica>;
+  <http://example.org/homeAddress> _:genid-211e434ce659419a9677815df1580555-node1 .
+
+<http://example.org/richard> <http://example.org/homeTel> "(229) 276-5135";
+  <http://example.org/email> "richard49@hotmail.com" .
+
+<http://example.org/cindy> <http://example.org/homeTel> "(245) 646-5488";
+  <http://example.org/email> "cindym@gmail.com" .
+
+<http://example.org/craig> <http://example.org/homeTel> "(194) 966-1505";
+  <http://example.org/email> "craigellis@yahoo.com", "c.ellis@usairwaysgroup.com" .

@@ -1,0 +1,12 @@
+<http://example.org/Picasso> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://example.org/Artist> .
+<http://example.org/Picasso> <http://xmlns.com/foaf/0.1/firstName> "Pablo" .
+<http://example.org/Picasso> <http://xmlns.com/foaf/0.1/surname> "Picasso" .
+<http://example.org/Picasso> <http://example.org/creatorOf> <http://example.org/guernica> .
+<http://example.org/Picasso> <http://example.org/homeAddress> _:genid2dc8e5b556845647bcbdefcbbed6610c732dEBBC9AC856FEA710C36A693AE0207E12 .
+<http://example.org/richard> <http://example.org/homeTel> "(229) 276-5135" .
+<http://example.org/richard> <http://example.org/email> "richard49@hotmail.com" .
+<http://example.org/cindy> <http://example.org/homeTel> "(245) 646-5488" .
+<http://example.org/cindy> <http://example.org/email> "cindym@gmail.com" .
+<http://example.org/craig> <http://example.org/homeTel> "(194) 966-1505" .
+<http://example.org/craig> <http://example.org/email> "craigellis@yahoo.com" .
+<http://example.org/craig> <http://example.org/email> "c.ellis@usairwaysgroup.com" .
