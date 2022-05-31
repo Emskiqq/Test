@@ -6,7 +6,9 @@ This is a simple project for practise RDF4J framework.
 This project will help you to understand how to work with RDF4J.
 
 ## Introduction to RDF4J
+Read
 
 ## Try Examples
+Work
 
 ### Gain knowledge
