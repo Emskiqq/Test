@@ -8,3 +8,5 @@ This project will help you to understand how to work with RDF4J.
 ## Introduction to RDF4J
 
 ## Try Examples
+
+### Gain knowledge
