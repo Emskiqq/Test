@@ -12,6 +12,7 @@ Read
 Work
 
 ### Gain knowledge
+Please try all carefully
 
 ### Copyright
 Emskiq
