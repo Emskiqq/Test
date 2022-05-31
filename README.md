@@ -12,3 +12,6 @@ Read
 Work
 
 ### Gain knowledge
+
+### Copyright
+Emskiq
