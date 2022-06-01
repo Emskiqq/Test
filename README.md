@@ -9,7 +9,7 @@ This project will help you to understand how to work with RDF4J.
 Read
 
 ## Try Examples
-Work
+Work, hard and don't give up.
 
 ### Gain knowledge
 Please try all carefully
