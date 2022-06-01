@@ -15,4 +15,4 @@ Work, hard and don't give up.
 Please try all carefully
 
 ### Copyright
-Emskiq
+Emskiq 2022
