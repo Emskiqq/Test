@@ -5,3 +5,5 @@ Honour to all students who read this.
 Add text from remote.
 
 Add text from stash chapter.
+
+Add text again for splash.
